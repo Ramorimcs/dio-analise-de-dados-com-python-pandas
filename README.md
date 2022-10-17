@@ -8,8 +8,10 @@
     3. Lucro Total?
     4. Total de dias para envio de cada produto?
     5. Média do tempo de envio para cada marca de produto?
-    6. Lucro por ano? E Lucro por marca?
-    7. Por fim, plots de alguns gráficos! XD
+    6. Lucro por ano E por marca?
+    7. Total de Produtos Vendidos?
+    8. Total de Vendas apenas de 2009?
+    9. Por fim, plots de alguns gráficos! XD
 
 
 
